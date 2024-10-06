@@ -18,7 +18,7 @@ Responsive design: The code is designed to be responsive, meaning it will adapt 
 Real-time updates: The time and date are updated in real-time, so you can see the current time and date at a glance.
 API integration: The code uses the IPInfo API to fetch location data, providing accurate and up-to-date information.
 # Author
-This code was created by Juno Delos Santos( https://www.facebook.com/profile.php?id=100091133423695 ). If you have any questions or feedback, feel free to reach out!
+This code was created by Juno Delos Santos https://www.facebook.com/profile.php?id=100091133423695. If you have any questions or feedback, feel free to reach out!
 
 # License
 This project is licensed under the MIT License. This means you are free to use, modify, and distribute the code as you see fit.
